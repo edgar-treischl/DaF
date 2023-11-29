@@ -18,7 +18,10 @@ Das folgende Schaubild fasst die Kontextfaktoren, die das Sprachenlernen Ihrer L
 
 Im zweiten Kapitel haben wir für Sie relevante Ergebnisse der Sprachlehr- und -lernforschung zusammengestellt. Wir erläutern, was wissenschaftliche Theorien über das Lernen allgemein und das Lernen von Sprachen im Besonderen aussagen. Diese Theorien sollen Ihnen helfen, die Lernprozesse, die Sie im Unterricht bei Ihren Lernenden beobachten, zu deuten und zu verstehen. Die theoretischen Modelle erklären viele Aspekte des Sprachenlernens wie z.B. die Entstehung von Fehlern: Manche können Sie mit Ihrem Unterricht beeinflussen, andere nicht oder nur schwer, aber Sie können Probleme des Sprachenlernens dadurch erkennen und neu bewerten. 
 
-Ziel dieses Teilkapitels ist, dass Sie:
+
+
+
+Ziel dieses Teilkapitels ist, dass Sie
 
 - allgemeine Lerntheorien kennenlernen, die jeweils bestimmte Aspekte des Lernens beschreiben,
 
@@ -27,13 +30,14 @@ Ziel dieses Teilkapitels ist, dass Sie:
 - wissen, welche Konsequenzen man aus den Lerntheorien für Unterricht ableiten kann.
 
 
-### Lernen vs. Erwerben:
+### Lernen vs. Erwerben
 
 - Wenn ein kleines Kind mit dem Spracherwerb beginnt, verwendet man dafür den Begriff erwerben. Mit Erwerben wird ein ungesteuerter Vorgang bezeichnet, der in einer außerunterrichtlichen Situation im Rahmen von natürlicher Kommunikation stattfindet.
 
 - Im Unterschied zum Erwerben bezeichnet lernen einen Prozess, der durch Unterricht gesteuert wird. 
 
 - Beim Lernen verändern sich Wissen, Einstellungen, Fertigkeiten oder Verhaltensweisen aufgrund von (unterrichtlicher) Erfahrung.
+
 
 
 ### Lerntheorien
@@ -106,10 +110,10 @@ Wir haben uns nun aus der Sicht von Fehlererkennung und Fehlerdiagnose mit versc
 - dass Lernen aber dann geschieht, wenn Input zu Intake wird,
 - dass Lernende in Interaktion mit anderen durch das Aushandeln von Bedeutung lernen.
 
+![](band2_grafik_003_klein.jpg){fig-align="center"}
 
 
 ## Reste
-
 
 
 Anschließend wenden wir uns den Lernenden genauer zu und thematisieren ihre individuellen Unterschiede: wie sich das Alter auf den Lernerfolg auswirkt, welche emotionalen und kognitiven Faktoren beim Lernen eine Rolle spielen und wie wichtig es ist, dass alle Lerntypen einen Zugang zum Lernstoff finden.

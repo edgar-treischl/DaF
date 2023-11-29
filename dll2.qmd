@@ -1,6 +1,7 @@
 ---
-title: "Wie lernt man die Fremdsprache Deutsch? (DLL2)"
+title: "Deutsch als fremde Sprache"
 ---
+
 
 Im ersten Kapitel werden Sie zunächst über die Faktoren nachdenken, die das Fremdsprachenlernen Ihrer Zielgruppe beeinflussen:
 
@@ -12,15 +13,50 @@ Das folgende Schaubild fasst die Kontextfaktoren, die das Sprachenlernen Ihrer L
 
 ![](band2_grafik_001_klein.jpg){fig-align="center"}
 
-1. Die Gründe dafür, dass meine Lernenden Deutsch / weitere Sprachen lernen, sind: Integration in Deutschland; aber auch die Verbesserung der schulischer Fähig
 
-2. Die Sprachen, die meine Lernenden lernen, und denen sie in ihrem Umfeld begegnen, sind:
+## Wie lernt man eigentlich Fremdsprachen?
 
-3. Meine Lernenden sind … Jahre alt und lernen erfolgreich Deutsch, wenn sie …
+Im zweiten Kapitel haben wir für Sie relevante Ergebnisse der Sprachlehr- und -lernforschung zusammengestellt. Wir erläutern, was wissenschaftliche Theorien über das Lernen allgemein und das Lernen von Sprachen im Besonderen aussagen. Diese Theorien sollen Ihnen helfen, die Lernprozesse, die Sie im Unterricht bei Ihren Lernenden beobachten, zu deuten und zu verstehen. Die theoretischen Modelle erklären viele Aspekte des Sprachenlernens wie z.B. die Entstehung von Fehlern: Manche können Sie mit Ihrem Unterricht beeinflussen, andere nicht oder nur schwer, aber Sie können Probleme des Sprachenlernens dadurch erkennen und neu bewerten. 
 
-4. In meinem Kontext wirken sich die folgenden sprachenpolitischen Konzepte auf den Fremdsprachenunterricht aus: ...
 
-Im zweiten Kapitel haben wir für Sie relevante Ergebnisse der Sprachlehr- und -lernforschung zusammengestellt. Wir erläutern, was wissenschaftliche Theorien über das Lernen allgemein und das Lernen von Sprachen im Besonderen aussagen. Diese Theorien sollen Ihnen helfen, die Lernprozesse, die Sie im Unterricht bei Ihren Lernenden beobachten, zu deuten und zu verstehen. Die theoretischen Modelle erklären viele Aspekte des Sprachenlernens wie z.B. die Entstehung von Fehlern: Manche können Sie mit Ihrem Unterricht beeinflussen, andere nicht oder nur schwer, aber Sie können Probleme des Sprachenlernens dadurch erkennen und neu bewerten. Anschließend wenden wir uns den Lernenden genauer zu und thematisieren ihre individuellen Unterschiede: wie sich das Alter auf den Lernerfolg auswirkt, welche emotionalen und kognitiven Faktoren beim Lernen eine Rolle spielen und wie wichtig es ist, dass alle Lerntypen einen Zugang zum Lernstoff finden.
+
+Ziel dieses Teilkapitels ist, dass Sie
+
+- allgemeine Lerntheorien kennenlernen, die jeweils bestimmte Aspekte des Lernens beschreiben,
+
+- Rückschlüsse von den allgemeinen Lerntheorien auf das Sprachenlernen ziehen können,
+
+- wissen, welche Konsequenzen man aus den Lerntheorien für Unterricht ableiten kann.
+
+
+Lernen vs. Erwerben:
+
+- Wenn ein kleines Kind mit dem Spracherwerb beginnt, verwendet man dafür den Begriff erwerben. Mit Erwerben wird ein ungesteuerter Vorgang bezeichnet, der in einer außerunterrichtlichen Situation im Rahmen von natürlicher Kommunikation stattfindet.
+
+- Im Unterschied zum Erwerben bezeichnet lernen einen Prozess, der durch Unterricht gesteuert wird. 
+
+- Beim Lernen verändern sich Wissen, Einstellungen, Fertigkeiten oder Verhaltensweisen aufgrund von (unterrichtlicher) Erfahrung.
+
+
+## Lerntheorien: 
+
+- *Behaviorismus*: Das Lernen wird in dieser Theorie als eine Verhaltensänderung gesehen. Dazu wird ein auslösender Impuls (stimulus) benötigt, auf den eine Reaktion der Lernerin / des Lerners (response) erfolgt. Lernen ist demnach ein imitativer Prozess. Das heißt: Die Umwelt liefert das korrekte Vorbild, das Lernende nachahmen sollen. (Drill-Übungen ; aber für Automatisierung sehr wichtig)
+
+- *Kognitivismus*: Der Kognitivismus geht davon aus, dass gelernt wird, indem neue Informationen mit zuvor bereits verarbeiteten und gespeicherten Informationen verknüpft werden. Lernen ist nach dieser Theorie also ein Prozess, in dem bewusst Neues erkannt und in bestehendes Wissen integriert wird. Aus diesem Grund ist das einsichtige und bewusste Lernen in dieser Theorie zentral. Für den Unterricht kann man aus dieser Theorie ableiten, dass die Vermittlung von Lernstrategien und die Förderung von bewusstem Lernen wesentlich sind. Auch ein *induktives* Vorgehen im Unterricht, bei dem die Lernenden aufgefordert sind, Regelmäßigkeiten selbst zu entdecken, wird durch diese Theorie begründet.
+
+- *Konnektionismus*: Diese Lerntheorie erklärt vor allem, wie neue Informationen verarbeitet und im Gedächtnis gespeichert werden. Vernetzung durch neurale Netze wobei unterschiedliche Gehirnareale unterschiedliche Aufgabe zukommen. Die konnektionistische Lerntheorie beschreibt Lernen als einen Prozess, bei dem Wissen in Form von Knotenpunkten in Netzen gespeichert wird. Je öfter man die Verbindungen zwischen Wissenseinheiten aktiviert, desto besser sind sie im Gedächtnis verankert. Für Sprachunterricht leitet sich aus dieser Lerntheorie ab, dass neue Informationen oder Wissen so vermittelt werden, dass Lernende Verknüpfungen aufbauen können. So können neue Wörter in Wortfeldern angeboten werden, sie können mit Synonymen oder gemeinsam mit ihrem Gegenteil, dem Antonym, präsentiert werden; all dies wäre nach dieser Theorie förderlich für das Lernen.
+
+- *Konstruktivismus*: Lernen wird erst durch die Aufnahme der neuen Informationen in das bereits vorhandene Wissen eines Lernenden möglich. Lernen ist also die aktive Konstruktion von neuem Wissen. Konstruktivistische Lerntheorien betonen aber darüber hinaus die Individualität von Lernprozessen und damit auch von Lernergebnissen: Der Mensch erschafft in Wechselwirkung mit seiner Umwelt neues Wissen. Nur wenn ein Lerner selbst ein Mindestmaß an Interesse, Lust oder Druck empfindet, wird sie/er sich neues Wissen aneignen können. Für die unterrichtliche Gestaltung von Lernprozessen ist zentral, dass Lernende sich ihre Vorkenntnisse bewusst machen, dass sie an diese anknüpfen und ihr Wissen ordnen. Lernende erarbeiten sich durch Ausprobieren, Beobachten und durch Entdecken neues Wissen und stellen dieses Wissen im besten Fall auch in eigenen Produkten dar (in Texten, in mündlichen Präsentationen, in Form von Grafiken oder Modellen). Dies ist die Vorgehensweise von projektorientiertem Lernen. Mit dem Konstruktivismus verändert sich das Verständnis von der Rolle der Lehrkraft. Sie unterstützt beim Lernen, indem sie Lernwege aufzeigt und die Selbstorganisation der Lernenden fördert. Dementsprechend haben Lehrende auch Aufgaben als Lernberater und Moderatoren.
+
+
+- *Interaktionismus:* Für den Interaktionismus ist die soziale Umwelt der Lernenden zentral für das Lernen. Die sprachliche Entwicklung eines Menschen ist gemäß dieser Theorie abhängig von den Möglichkeiten und Erfahrungen, die im Umgang mit anderen gesammelt werden. Mit anderen Menschen tauschen wir Ideen und Lösungen für Probleme aus und verwenden dabei Sprache. Dabei wird gemeinsames Lernen möglich.  Da der Fremdsprachenunterricht aber auf die Kommunikation außerhalb des Klassenzimmers vorbereiten will, ergibt sich ein Paradox. Es gibt verschiedene Möglichkeiten, dieses Paradox zu überwinden (Gruppen- oder Partnerarbeit, Rollenspiele).
+
+Die folgende Abbildung zeigt Ihnen im Überblick, was Sie über die verschiedenen Arten erfahren haben, wie Lernen funktioniert:
+
+![](band2_grafik_003_klein.jpg){fig-align="center"}
+
+
+Anschließend wenden wir uns den Lernenden genauer zu und thematisieren ihre individuellen Unterschiede: wie sich das Alter auf den Lernerfolg auswirkt, welche emotionalen und kognitiven Faktoren beim Lernen eine Rolle spielen und wie wichtig es ist, dass alle Lerntypen einen Zugang zum Lernstoff finden.
 
 Thema des dritten Kapitels ist, wie man lernen kann, Sprachen zu lernen. Wir zeigen, wie man die Individualität der Lernenden im Unterricht berücksichtigen kann. Wir stellen dar, wie Lernende ihr Lernen reflektieren, wie sie immer selbstständiger und systematischer beim Lernen vorgehen und wie Sie als Lehrende diese Prozesse anleiten können. Weiter möchten wir Ihnen zeigen, mit welchen Strategien Ihre Lernenden lernen können und wie Sie sie darin unterstützen können, sich diese Vorgehensweisen anzueignen und zu üben.
 

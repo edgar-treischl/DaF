@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  repo-url: https://github.com/edgar-treischl/daf
+  title: "Deutsch als Fremdsprache"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: dll2.qmd
+        text: "DLL 3"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+
+

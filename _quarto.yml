@@ -10,9 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: dll2.qmd
-        text: "DLL 3"
+        text: "DLL 2"
 
 format:
   html:

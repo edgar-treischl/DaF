@@ -4,6 +4,8 @@ project:
 
 
 website:
+  sidebar:
+    style: "floating"
   repo-url: https://github.com/edgar-treischl/daf
   title: "Deutsch als Fremdsprache"
   navbar:
@@ -18,6 +20,9 @@ format:
     theme: litera
     css: styles.css
     toc: true
+    include-in-header: 
+      - progress.html
+    lightbox: auto
 
 
 

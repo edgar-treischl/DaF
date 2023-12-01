@@ -1,5 +1,9 @@
 ---
 title: "Deutsch als Fremdsprache"
+title-block-banner: "media/deutsch.jpg"
+filters:
+   - lightbox
+format: html
 ---
 
 Diese Fortbildung beruht auf dem fortbildungsdidaktischen Ansatz und den Materialien der Fort- und Weiterbildungsreihe „Deutsch Lehren Lernen“ (DLL) des Goethe-Instituts.

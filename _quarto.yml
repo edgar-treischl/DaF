@@ -21,8 +21,9 @@ format:
     css: styles.css
     toc: true
     include-in-header: 
-      - progress.html
+      - progress-bar.html
     lightbox: auto
+    page-layout: article
 
 
 

@@ -244,6 +244,50 @@ Wir haben das didaktisch-methodische Prinzip Förderung von Lernerautonomie zu B
 - dass sie einschätzen lernen, was sie gut bzw. nicht so gut können, und
 - dass Sie entscheiden lernen, wann, mit welchen Materialien und vielleicht auch mit wem sie lernen wollen.
 
+## 3.4 Wie leitet man systematisches Lernen an?
+
+Unter *Lernstrategien* versteht man die planvolle Vorgehensweise, die man einsetzt, um ein Ziel zu erreichen. Lernstrategien können je nach Bedarf, persönlichem Lernstil und Situation unterschiedlich sein, sie haben aber immer das Ziel, den Lernprozess zu steuern und den Lernerfolg zu erhöhen. Die konkrete Ausführung einer Strategie ist die *Lerntechnik*, also der sichtbare, beobachtbare Teil einer Strategie. Eine Strategie kann aus mehreren konkreten Teilhandlungen, aus Lerntechniken, bestehen. Eine Lerntechnik wäre beispielsweise das Nachschlagen im Wörterbuch.
+
+Es gibt unzählige *Typen* von Strategien beim Lernen. Um den Überblick zu behalten, lassen sich die Strategien in verschiedene Gruppen einteilen. Man unterscheidet, genau wie bei den Formen der Reflexion (siehe Kapitel 3.2.1), zwischen *kognitiven*, *metakognitiven* und *affektiven* Sprachlernstrategien.
+
+- *Kognitive* Strategien sind mentale Handlungen, die dazu führen, dass Wissen und Fakten aufgenommen und gespeichert werden. Hier gibt es einerseits *Gedächtnisstrategien*, durch die sich die Lernenden etwas merken, z.B. Vokabeln oder grammatische Strukturen, und andererseits *Verständnisstrategien*, die. z.B. dabei helfen, gesprochene oder geschriebene Texte zu verstehen.
+
+- *Metakognitive* Strategien setzen Lernende ein, wenn sie das Lernen organisieren. Zentral sind dabei drei Bereiche: Ziele setzen, das Lernen planen und das Lernen evaluieren. Metakognitive Strategien dienen dazu, den Sprachlernprozess bewusst zu gestalten, und sind somit eng mit Sprachlernbewusstheit verbunden (Bsp.: Welche Lernumgebung, wen frage ich nach Hilfe).
+
+- *Affektive* Strategien sind solche Strategien, die sich auf Emotionen und Motivation beziehen. Dazu gehört, sich selbst zu motivieren (Warum lerne ich?, Was macht mir daran Spaß?) und produktiv mit Ängsten und Unsicherheiten umzugehen.
+
+*Kommunikationsstrategien*: Unter Kommunikationsstrategien versteht man die Strategien, die Lernende nicht zum Lernen, sondern in der Verwendung der Sprache benutzen. Dazu gehört, wenig Angst vor Fehlern zu haben und kreativ mit der Sprache umzugehen, beispielsweise indem Platzhalter für unbekannte Wörter (Dingsda) verwendet oder neue Wörter erfunden werden (z.B. Bücherhaus für Bibliothek/Bücherei), die es zwar nicht gibt, die der Gegenüber aber oft versteht. In der folgenden Übersicht sehen Sie die verschiedenen Typen von Strategien:
+
+![](media/band2_grafik_013_klein.jpg){fig-align="center"}
+
+ Beispiele für jeden Typ von Strategie:
+ 
+ ![](media/band2_grafik_014_klein.jpg){fig-align="center"}
+ 
+ Lernende müssen ihrem Alter und ihrer Lernerfahrung entsprechend an Lernstrategien herangeführt werden. Das Ziel eines Strategietrainings ist, dass den Lernenden ein Repertoire an Strategien zur Verfügung steht und sie besonders solche Strategien kennenlernen, die für sie geeignet sind. Wenn Sie ein systematisches Strategietraining planen, sind für jugendliche und erwachsene Lernende die folgenden drei Schritte zu empfehlen. Für Kinder bietet es sich an, Schritt 1 auszulassen und nur Schritt 2 und 3 zu nutzen.
+ 
+ 1. *Bewusstmachung*: Beginnen Sie das Strategietraining stets mit der Reflexion darüber, wie die Lernenden üblicherweise vorgehen. Wie schreiben sie normalerweise Texte? Wie lernen sie neuen Wortschatz? Wo liegen die Schwierigkeiten? Was hilft ihnen? Haben sie schon etwas gegen die Schwierigkeiten unternommen? Was funktioniert nicht? Sie können Ihr Strategietraining beispielsweise mit einem Gespräch über diese Fragen im Plenum oder in Kleingruppen beginnen und die Ergebnisse auf Plakaten oder an der Tafel festhalten.
+ 
+2. *Ausprobieren*: Geben Sie den Lernenden im Unterricht die Möglichkeit, verschiedene Strategien auszuprobieren. Bei der Produktion von Texten können die Lernenden ihre Texte auf verschiedene Weise überarbeiten: Sie können sich z.B. gegenseitig ein Feedback geben, die Korrekturfunktion des Schreibprogramms ihres Computers benutzen oder ihren Text mit einem Beispieltext vergleichen.
+
+3. *Bewerten*: Anschließend ist es wichtig, dass die Lernenden reflektieren, welche Strategien bei ihnen gut funktionieren und welche weniger gut. Auch über die Gründe kann man diskutieren. Hier eignen sich Reflexionsbögen, in die die Lernenden eintragen, welche Strategie erfolgreich, angenehm, zeitaufwendig oder langweilig war.
+
+Es ist sinnvoll, in regelmäßigen Abständen noch einmal über die Strategien zu sprechen und die Lernenden daran zu erinnern, Verschiedenes auszuprobieren. Schließlich ist es erwiesen, dass man aus Gewohnheit und Bequemlichkeit gern bei jenen Strategien bleibt, die man schon immer verwendet hat. Gleichzeitig belegen Studien aber auch, dass das Sprechen über verwendete Strategien zu einem bewussteren Umgang mit Aufgaben und eigenen Leistungen führt und die Sprachlernbewusstheit fördert.
+
+
+Voraussetzungen für die *Selbstevaluation* (Das eigene Lernen bewerten):
+
+- Lernende müssen Kriterien für die Beurteilung einer Leistung kennen
+- Lernende müssen ihre Leistungen zu den Bewertungskriterien in Bezug setzen können (realistische Selbsteinschätzung, kann ich einen Brief auf Deutsch schreiben)
+- Viele neuere Lehrwerke orientieren sich eng an den Kann-Beschreibungen des Gemeinsamen europäischen Referenzrahmens.
+- Checkliste (was kann ich? Was muss ich üben?)
+
+
+Zusammenfassend möchten wir nun noch einmal die wesentlichen Aspekte der Selbstevaluation festhalten. Selbstevaluationen sind im Sinne des autonomen Lernens wichtig, um bisher Gelerntes zu reflektieren, um den aktuellen Wissensstand zu überprüfen und um weitere Lernschritte erfolgreich zu planen. Dabei müssen die Lernenden von der Lehrkraft schrittweise an die Selbsteinschätzung herangeführt werden. Diese Anleitung beinhaltet, dass den Lernenden verständlich gemacht wird, welche Lernziele oder Inhalte sie reflektieren sollen und dass sie die Rolle der Checklisten und die einzelnen Kriterien der Leistungsbewertung verstehen. Idealerweise sollten die Lernenden in regelmäßigen Abständen die Gelegenheit zur Selbstevaluation bekommen.
+
+
+## 3.5 Wie schafft man Raum für Individualität und Selbstständigkeit?
+ 
 
 ## Reste
 

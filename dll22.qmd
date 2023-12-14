@@ -14,7 +14,7 @@ Das folgende Schaubild fasst die Kontextfaktoren, die das Sprachenlernen Ihrer L
 ![](media/band2_grafik_001_klein.jpg){fig-align="center"}
 
 
-## 2.1 Wie lernt man eigentlich Fremdsprachen?
+## Wie lernt man eigentlich Fremdsprachen?
 
 Im zweiten Kapitel haben wir für Sie relevante Ergebnisse der Sprachlehr- und -lernforschung zusammengestellt. Wir erläutern, was wissenschaftliche Theorien über das Lernen allgemein und das Lernen von Sprachen im Besonderen aussagen. Diese Theorien sollen Ihnen helfen, die Lernprozesse, die Sie im Unterricht bei Ihren Lernenden beobachten, zu deuten und zu verstehen. Die theoretischen Modelle erklären viele Aspekte des Sprachenlernens wie z.B. die Entstehung von Fehlern: Manche können Sie mit Ihrem Unterricht beeinflussen, andere nicht oder nur schwer, aber Sie können Probleme des Sprachenlernens dadurch erkennen und neu bewerten. 
 
@@ -30,7 +30,7 @@ Ziel dieses Teilkapitels ist, dass Sie
 - wissen, welche Konsequenzen man aus den Lerntheorien für Unterricht ableiten kann.
 
 
-## 2.2 Was weiß man über das Lernen:
+## Was weiß man über das Lernen:
 
 - Lernen vs. Erwerben: Wenn ein kleines Kind mit dem Spracherwerb beginnt, verwendet man dafür den Begriff erwerben. Mit Erwerben wird ein ungesteuerter Vorgang bezeichnet, der in einer außerunterrichtlichen Situation im Rahmen von natürlicher Kommunikation stattfindet.
 
@@ -57,7 +57,7 @@ Die folgende Abbildung zeigt Ihnen im Überblick, was Sie über die verschiedene
 
 ![](media/band2_grafik_003_klein.jpg){fig-align="center"}
 
-## 2.3 Was weiß man über den Spracherwerb?
+## Was weiß man über den Spracherwerb?
 
 Ziel dieses Teilkapitels ist, dass Sie
 
@@ -129,7 +129,7 @@ Vielleicht hatten Sie selbst schon erste Ideen, wie man die Aussagen der besproc
 
 - Fehler, die entstehen, wenn Lernende noch nicht in der Lage sind, in eine neue Erwerbssequenz einzutreten, können zwar korrigiert werden, die Korrekturen wirken sich aber erst dann aus, wenn die Lernenden in der Lage sind, das neue Phänomen – aufbauend auf dem bereits Bekannten – zu verstehen. Erst dann können sie es auch korrekt anwenden.
 
-## 2.4 Worin unterscheiden sich meine Lernenden?
+## Worin unterscheiden sich meine Lernenden?
 
 Anschließend wenden wir uns den Lernenden genauer zu und thematisieren ihre individuellen Unterschiede: wie sich das Alter auf den Lernerfolg auswirkt, welche emotionalen und kognitiven Faktoren beim Lernen eine Rolle spielen und wie wichtig es ist, dass alle Lerntypen einen Zugang zum Lernstoff finden.
 
@@ -188,7 +188,7 @@ Mit den Begriffen global und analytisch unterscheidet man die Art und Weise, wie
 
 Diese beiden Begriffe beschreiben, inwieweit eine Lernerin / ein Lerner bereit ist, auch Informationen aufzunehmen und zu verarbeiten, die sie/er nicht vollständig verstehen kann. Ambiguitätstolerante Lernende kommen grundsätzlich gut in natürlichen Kommunikationssituationen zurecht, in denen sie nicht alles verstehen, besonders wenn schnell oder im Dialekt gesprochen wird. Ambiguitätsintolerante Lernende fühlen sich in solchen Situationen schnell überfordert und finden sie eher unangenehm. Sie haben das Bedürfnis, neue Wörter exakt und Gespräche vollständig zu verstehen, und suchen nach präzisen Übersetzungen in ihrer Erstsprache.
 
-## 2.5 Zusammenfassung
+## Zusammenfassung
 
 In Kapitel 2 stand die Frage im Mittelpunkt, welche Voraussetzungen und Bedingungen das Sprachenlernen beeinflussen. Um diese Frage zu beantworten, haben wir Theorien vorgestellt, die allgemeine Aussagen über das Lernen treffen. Dabei wurde deutlich, dass es nicht eine einzige, allumfassende Theorie gibt, die den Lernprozess abbildet, sondern dass die Lerntheorien verschiedene Aspekte des Lernens beleuchten und erklären können. Somit hat jede der vorgestellten Theorien – mit unterschiedlicher Gewichtung – Aussagekraft für das Fremdsprachenlernen. Da besonders die kognitiven Lerntheorien mit ihrem Bezug zu anderen Wissenschaftsgebieten (z.B. Neurowissenschaften und Lernpsychologie) sehr viel über die menschliche Informationsverarbeitung zeigen, sind sie eine wichtige Grundlage für viele didaktische Schlussfolgerungen im Verlauf dieser Einheit.
 

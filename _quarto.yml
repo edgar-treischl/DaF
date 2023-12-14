@@ -10,10 +10,15 @@ website:
   title: "Deutsch als Fremdsprache"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: dll2.qmd
-        text: "DLL 2"
+      - text: "DLL 2"
+        menu:
+          - text: "01/02 Wie lernt man eigentlich Fremdsprachen?"
+            href: dll22.qmd
+          - text: "03 Wie lernt man Sprachen zu lernen?"
+            href: dll23.qmd
+          - text: "04 Wie helfen andere Sprachen beim Deutschlernen?"
+            href: dll24.qmd
+    
 
 format:
   html:
